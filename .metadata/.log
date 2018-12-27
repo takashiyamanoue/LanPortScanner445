@@ -1,0 +1,9 @@
+!SESSION 2018-12-26 16:15:33.913 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=arm, WS=gtk, NL=ja_JP
+Command-line arguments:  -os linux -ws gtk
+
+!ENTRY org.eclipse.ui 2 2 2018-12-26 16:16:17.229
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
